@@ -85,6 +85,7 @@ li {
 
 .collapse:not(.show) {
     display: none;
+    overflow: hidden;
 }
 
 .navbar-collapse {
