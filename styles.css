@@ -51,8 +51,8 @@ nav {
 .center{
   display: flex; 
   justify-content: center;
-  padding: 4rem;
-  color: #573DFC;
+  padding: 4rem 4rem;
+  color: #000;
   align-items: flex-start;
 
 }
