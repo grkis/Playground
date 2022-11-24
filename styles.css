@@ -37,12 +37,25 @@ nav {
     background: #9137bb;
  }
   
- .container {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    height: 95vh;
-    padding: 2rem;
- }
+.background2 {
+  background: #573DFC;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  height: 95vh;
+  padding: 3rem;
+}
+
+.center{
+  display: flex; 
+  justify-content: center;
+  padding: 3rem;
+  color: #573DFC;
+  align-items: flex-start;
+
+}
   
  .column-left {
     display: flex;
