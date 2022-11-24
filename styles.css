@@ -45,13 +45,13 @@ nav {
   display: grid;
   grid-template-columns: 1fr 1fr;
   height: 95vh;
-  padding: 3rem;
+  padding: 4rem;
 }
 
 .center{
   display: flex; 
   justify-content: center;
-  padding: 3rem;
+  padding: 4rem;
   color: #573DFC;
   align-items: flex-start;
 
