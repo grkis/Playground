@@ -48,14 +48,21 @@ nav {
   padding: 4rem;
 }
 
+.container2{
+  margin: 3rem;
+  width: 100%; 
+}
+
 .center{
-  display: flex; 
+  display: center; 
   justify-content: center;
-  padding: 4rem 4rem;
-  color: #000;
-  align-items: flex-start;
+  padding: 3rem;
+  color:  #000;
+  align-items: center;
+  text-align: center;
 
 }
+
   
  .column-left {
     display: flex;
